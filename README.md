@@ -1,6 +1,6 @@
 # **Team Profile Generator**
 ## Description 
-A node.js program that generates a team profile webpage for managers, with easy access to the employee's information.
+A node.js program that generates a team profile webpage for managers, with easy access to the employee's information. Forked from my original GitHub account.
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -22,5 +22,5 @@ JEST
 ## GitHub
 ![Image of me](https://avatars.githubusercontent.com/u/82251556?v=4)
 - Jackson LeMasters
-- [GitHub Profile](https://github.com/jacklemasters)
+- [GitHub Profile](https://github.com/tf-jlemasters)
 
